@@ -94,4 +94,8 @@ def test_empty_file_returns_empty_lists(tmp_path):
 
 def test_missing_file_raises_file_not_found_error(tmp_path):
     with pytest.raises(FileNotFoundError):
+<<<<<<< Updated upstream
         load_scores(tmp_path / "missing.csv")
+=======
+        load_scores(tmp_path / "missing.csv")
+>>>>>>> Stashed changes
