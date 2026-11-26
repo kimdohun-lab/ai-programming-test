@@ -1,2 +1,2 @@
 # ai-programming-test
-hello
+왜 업로드가 안 돼
